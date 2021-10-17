@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesspeters143
 - 👀 I’m interested in web developement 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Ruby on Rails
 - 💞️ I’m looking to collaborate on beggining level coding
 - 📫 How to reach me: message here
 
