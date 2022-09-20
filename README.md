@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesspeters143
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript and Ruby on Rails
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning Python for Data Science, Web and Core Programming 
 - 💞️ I’m looking to collaborate on beggining level coding
 - 📫 How to reach me: message here
 
